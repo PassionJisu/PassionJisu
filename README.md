@@ -22,14 +22,13 @@
 #### 도구 & 협업
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
 ### 🧾 주요 프로젝트
 > 깃허브에 공개된 최근 레포지토리를 자동으로 보여줘요.
 
-[![Latest Projects](https://github-readme-stats.vercel.app/api/pin/?username=hanjisu&repo=REPO_NAME&theme=radical)](https://github.com/hanjisu)
+[![Latest Projects](https://github-readme-stats.vercel.app/api/pin/?username=hanjisu&repo=REPO_NAME&theme=radical)](https://github.com/PassionJisu)
 
 <!-- 위 REPO_NAME을 실제 레포 이름으로 바꿔서 여러 개 추가할 수 있어요 -->
 <!-- 예시:
@@ -39,12 +38,12 @@
 ---
 
 ### 📊 활동 기록
-![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjisu&show_icons=true&theme=radical)
+![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PassionJisu&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 연락처
-- ✉️ 이메일: `your.email@example.com` *(본인 이메일로 수정해줘!)*
+- ✉️ 이메일: `hanjisu1016@naver.com` 
 - 🔗 블로그/포트폴리오: Coming Soon!
 
 ---
