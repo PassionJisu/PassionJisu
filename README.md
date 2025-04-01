@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=안녕하세요+🙇‍♂️+PassionJisu입니다;백엔드+개발자를+꿈꾸는+개발자입니다;꾸준함으로+성장합니다!🚀" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Welcome to PassionJisu!</h3>
+<h3 align="center">Welcome to Jisu's World!🔥</h3>
 
 ---
 
