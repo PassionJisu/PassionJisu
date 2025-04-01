@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=안녕하세요+%F0%9F%91%8B+한지수입니다;백엔드+개발자를+꿈꾸는+개발자입니다;꾸준함으로+성장합니다!" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">안녕하세요 👋, 한지수입니다</h1>
 <h3 align="center">신뢰성 있는 시스템을 만드는 백엔드 개발자를 꿈꾸는 예비 개발자</h3>
 
