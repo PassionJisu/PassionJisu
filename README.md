@@ -32,7 +32,7 @@
 > 깃허브에 공개된 최근 레포지토리를 자동으로 보여줘요.
 
 [![JAVA Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Java_Study&theme=radical)](https://github.com/PassionJisu/Java_Study)
-[![MYSQL Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Java_Study&theme=radical)](https://github.com/PassionJisu/Mysql_Study)
+[![MYSQL Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Java_Study&theme=radical)](https://github.com/PassionJisu/SQL_Study)
 
 <!-- 위 REPO_NAME을 실제 레포 이름으로 바꿔서 여러 개 추가할 수 있어요 -->
 <!-- 예시:
