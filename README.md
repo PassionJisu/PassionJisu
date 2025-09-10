@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=안녕하세요+🙇‍♂️+PassionJisu입니다;백엔드+개발자를+꿈꾸는+개발자입니다;꾸준함으로+성장합니다!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=안녕하세요+🙇‍♂️+PassionJisu입니다;개발자를+꿈꾸고+있습니다;기획에도+관심이+있습니다" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Welcome to Jisu's World!🔥</h3>
@@ -7,9 +7,9 @@
 ---
 
 ### 🌱 자기소개
-- 🎓 **전남대학교 소프트웨어공학과** 재학 중
+- 🎓 **전남대학교 소프트웨어공학과** 재학
 - 💻 현재 **Java**와 **Spring Boot** 기반 백엔드 개발 공부 중
-- 🏢 **백엔드** 개발자 취업 목표
+- 🚩 구름톤 유니브 4기 수료 - 기획 파트 
 - 📚 CS 전공 지식과 실무 경험 기반 쌓는 중
 - ✍️ GitHub와 블로그를 통해 학습 내용 정리 예정
 
