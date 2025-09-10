@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=안녕하세요+🙇‍♂️+PassionJisu입니다;개발자를+꿈꾸고+있습니다;기획에도+관심이+있습니다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=안녕하세요+🙇‍♂️+PassionJisu입니다;개발자를+꿈꾸고+있습니다⭐;기획에도+관심이+있습니다🪄" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Welcome to Jisu's World!🔥</h3>
