@@ -40,6 +40,7 @@
 
 [![JAVA Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Java_Study&theme=radical)](https://github.com/PassionJisu/Java_Study)
 [![MYSQL Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=SQL_Study&theme=radical)](https://github.com/PassionJisu/SQL_Study)
+[![Bluffing_HacakathonProject](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Bluffing&theme=radical)](https://github.com/PassionJisu/SQL_Study)
 
 ---
 
