@@ -55,7 +55,7 @@
 
 ### 📫 연락처
 - ✉️ 이메일: `hanjisu1016@naver.com` 
-- 🔗 블로그/포트폴리오: (https://velog.io/@passionjisu/posts)
+- 🔗 블로그: `https://velog.io/@passionjisu/posts`
 
 ---
 
