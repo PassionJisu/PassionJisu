@@ -39,9 +39,11 @@
 
 ### 🧾 주요 프로젝트
 
-[![JAVA Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Java_Study&theme=radical)](https://github.com/PassionJisu/Java_Study)
-[![MYSQL Study](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=SQL_Study&theme=radical)](https://github.com/PassionJisu/SQL_Study)
-[![Bluffing](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Bluffing_GoormthonHackathon_Project_2025&theme=radical)](https://github.com/PassionJisu/Bluffing_GoormthonHackathon_Project_2025)
+| Repository | Description |
+| :--- | :--- |
+| [![Foodridge](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Foodridege&theme=radical)](https://github.com/PassionJisu/Foodridege) | **Foodridge**<br><br>Flutter 기반으로 개발한 앱 프로젝트입니다. |
+| [![Bluffing](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Bluffing_GoormthonHackathon_Project_2025&theme=radical)](https://github.com/PassionJisu/Bluffing_GoormthonHackathon_Project_2025) | **Bluffing**<br><br>2025 구름톤 해커톤 참여 프로젝트입니다. |
+| [![WiFinder](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=wi_finder&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=wi_finder&theme=radical) | **WiFinder**<br><br>Loki, Prometheus, Grafana 등을 활용해 교내 Wi-Fi 로그를 분석하고 AP 에러를 탐지하는 캡스톤 디자인 프로젝트입니다. |
 
 ---
 
