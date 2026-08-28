@@ -49,7 +49,6 @@
 
 ### 📊 활동 기록
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PassionJisu&show_icons=true&theme=tokyonight" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PassionJisu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="47%"/>
 </p>
 
