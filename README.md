@@ -41,9 +41,9 @@
 
 | Repository | Description |
 | :--- | :--- |
-| [![Foodridge](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Foodridege&theme=radical)](https://github.com/PassionJisu/Foodridege) | **Foodridge**<br><br>Flutter 기반으로 개발한 앱 프로젝트입니다. |
-| [![Bluffing](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=Bluffing_GoormthonHackathon_Project_2025&theme=radical)](https://github.com/PassionJisu/Bluffing_GoormthonHackathon_Project_2025) | **Bluffing**<br><br>2025 구름톤 해커톤 참여 프로젝트입니다. |
-| [![WiFinder](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=wi_finder&theme=radical)](https://github-readme-stats.vercel.app/api/pin/?username=PassionJisu&repo=wi_finder&theme=radical) | **WiFinder**<br><br>Loki, Prometheus, Grafana 등을 활용해 교내 Wi-Fi 로그를 분석하고 AP 에러를 탐지하는 캡스톤 디자인 프로젝트입니다. |
+| [**Foodridge**](https://github.com/PassionJisu/Foodridege) | Flutter 기반으로 개발한 앱 프로젝트입니다. |
+| [**Bluffing**](https://github.com/PassionJisu/Bluffing_GoormthonHackathon_Project_2025) | 2025 구름톤 해커톤 참여 프로젝트입니다. |
+| [**WiFinder**](https://github.com/PassionJisu/wi_finder) | Loki, Prometheus, Grafana 등을 활용해 교내 Wi-Fi 로그를 분석하고 AP 에러를 탐지하는 캡스톤 디자인 프로젝트입니다. |
 
 ---
 
